@@ -12,8 +12,6 @@
 
 - 💬 Ask me about: **C++, React.js, JavaScript, Express.js, Node.js, Data Structures and Algorithms.**
 
-- 📚 Currently Learning: **How to survive in corporate and make impactful changes**
-
 - 📫 How to reach me: **bhushanpatil7258@gmail.com**
 
 - 🌐 Portfolio: **[bhushan-myportfolio.vercel.app](https://bhushan-myportfolio.vercel.app/)**
@@ -29,31 +27,48 @@
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript" width="50" height="50"/> 
   </a> 
+  &nbsp; &nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50"/>
   </a> 
+  &nbsp; &nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/> 
   </a> 
+  &nbsp; &nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/> 
   </a> 
+  &nbsp; &nbsp;
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> 
   </a> 
+  &nbsp; &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> 
+  &nbsp; &nbsp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  &nbsp; &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="50" height="50"/> 
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> 
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> 
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> 
   </a> 
 </p>
+
 
 <br>
  
