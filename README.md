@@ -23,6 +23,8 @@
 <a href="https://leetcode.com/u/Bhushan-20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhushan-20" height="30" width="40" /></a>
 </p>
 
+<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+
 <br>
 <h3 align="left">Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=Bhushan-20&row=1&column=3&margin-w=15&margin-h=15" alt="Bhushan-20" /></a> </p>
