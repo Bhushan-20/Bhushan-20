@@ -4,7 +4,6 @@
   </a>
 </h1>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhushan-20&label=Profile%20views&color=0e75b6&style=flat" alt="Bhushan-20" /> </p>
 
 <br>
 
@@ -16,14 +15,15 @@
 
 - ⚡ Fun fact: **YouTube has taught me more than my college ever did.**
 
+<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhushan-patil-11410a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan-20" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Bhushan-20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhushan-20" height="30" width="40" /></a>
 </p>
-
-<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
 
 <br>
 <h3 align="left">Trophies:</h3>
