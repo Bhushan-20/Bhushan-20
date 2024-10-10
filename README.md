@@ -4,9 +4,7 @@
   </a>
 </h1>
 <br>
-<p align="center">
- <img src="https://github.com/Bhushan-20/Bhushan-20/blob/main/github_banner.png" alt="Giphy" width="700px" height="300px" >
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhushan-20&label=Profile%20views&color=0e75b6&style=flat" alt="Bhushan-20" /> </p>
 
 <br>
 
@@ -17,6 +15,13 @@
 - 🌐 Portfolio: **[bhushan-myportfolio.vercel.app](https://bhushan-myportfolio.vercel.app/)**
 
 - ⚡ Fun fact: **YouTube has taught me more than my college ever did.**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhushan-patil-11410a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan-20" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Bhushan-20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhushan-20" height="30" width="40" /></a>
+</p>
 
 <br>
 <h3 align="left">Trophies:</h3>
@@ -81,8 +86,8 @@
 <br>
  
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhushan-20&show_icons=true&locale=en&layout=compact" alt="Bhushan-20" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhushan-20&show_icons=true&locale=en&layout=compact" alt="Bhushan-20" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhushan-20&show_icons=true&locale=en" alt="Bhushan-20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhushan-20&show_icons=true&locale=en" alt="Bhushan-20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhushan-20&" alt="Bhushan-20" /></p>
