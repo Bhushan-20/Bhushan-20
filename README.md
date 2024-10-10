@@ -26,8 +26,6 @@
 </p>
 
 <br>
-<h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=Bhushan-20&row=1&column=3&margin-w=15&margin-h=15" alt="Bhushan-20" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -84,6 +82,9 @@
   </a> 
 </p>
 
+<br>
+<h3 align="left">Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=Bhushan-20&row=1&column=3&margin-w=15&margin-h=15" alt="Bhushan-20" /></a> </p>
 
 <br>
  
