@@ -17,10 +17,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bhushan-patil-11410a173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan-20" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Bhushan-20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhushan-20" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-patil-11410a173/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FE5F55?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bhushan-20/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
