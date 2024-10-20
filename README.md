@@ -17,8 +17,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-patil-11410a173/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FE5F55?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bhushan-20/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishita-paul/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FE5F55?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/reinforcer/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
