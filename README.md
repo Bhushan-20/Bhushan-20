@@ -91,4 +91,5 @@
 <hr>
 
 <h3 align="left">💡 Leetcode Statistics:</h3>
+<p><img align="left" src="https://leetcode.card.workers.dev/?username=Bhushan-20&theme=dark"/</p>
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=Bhushan-20&theme=dark)
