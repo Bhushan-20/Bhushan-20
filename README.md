@@ -83,9 +83,11 @@
 <br>
 
 <h3 align="left">💡GitHub Stats:</h3>
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhushan-20&theme=radical" style="margin-bottom: 20px;" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhushan-20&show_icons=true&locale=en&layout=compact" alt="Bhushan-20" style="margin-bottom: 20px;" /></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhushan-20&theme=radical" /></p>
+<br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhushan-20&show_icons=true&locale=en&layout=compact" alt="Bhushan-20" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhushan-20&" alt="Bhushan-20" /></p>
+
 
 
 <hr>
