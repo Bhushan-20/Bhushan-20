@@ -90,6 +90,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhushan-20&" alt="Bhushan-20" /></p>
 
 <hr>
-<h3 align="left">💡 Leetcode Statistics:</h3>
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Bhushan-20&theme=dark)
