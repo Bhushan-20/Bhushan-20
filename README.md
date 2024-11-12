@@ -12,7 +12,7 @@
   
 - ⚡ Fun fact: **YouTube has taught me more than my college ever did.**
   
-<img align="right" width="400" alt="coding"  src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+<img align="right" width="400" alt="coding"  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
 <br>
 
 <h3 align="left">Connect with me:</h3>
