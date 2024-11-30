@@ -28,19 +28,19 @@
   </a> 
   &nbsp; &nbsp;
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"       alt="JavaScript" width="50" height="50"/> 
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   </a> 
   &nbsp; &nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   </a>
   &nbsp; &nbsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="50"       height="50"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" width="50" height="50"/> 
     </a>
     &nbsp; &nbsp;
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="50" height="50"/>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   </a> 
   &nbsp; &nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
@@ -52,7 +52,7 @@
   </a> 
   &nbsp; &nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/> 
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
   </a> 
   &nbsp; &nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -88,7 +88,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhushan-20&show_icons=true&locale=en&layout=compact" alt="Bhushan-20" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhushan-20&" alt="Bhushan-20" /></p>
 
-
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://jharohit.com.np/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhushan-20&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
 
 <hr>
 
