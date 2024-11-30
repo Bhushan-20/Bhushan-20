@@ -60,7 +60,7 @@
   </a> 
   &nbsp; &nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> 
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
   </a>
   &nbsp; &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
