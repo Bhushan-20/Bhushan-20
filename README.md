@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: **C++, React.js, JavaScript, Express.js, Node.js, Data Structures and Algorithms.**
   
-- 📫 How to reach me: **bhushan.patil.20.5.02@gmail.com**
+- 📫 How to reach me: **bhushanpatil.dev@gmail.com**
   
 - 🌐 Portfolio: **[bhushan-myportfolio.vercel.app](https://bhushan-myportfolio.vercel.app/)**
   
